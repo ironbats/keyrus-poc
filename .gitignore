@@ -134,6 +134,12 @@ eclipsebin/
 node_modules/
 .project
 .jar
+config/backup
+config/licence
+config/licence/
+config/readme.txt
+config/solr
+config/solr/
 **/css/style.css
 
 ##### SONAR QUBE FILES
