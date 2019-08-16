@@ -140,6 +140,7 @@ config/licence/
 config/readme.txt
 config/solr
 config/solr/
+log
 **/css/style.css
 
 ##### SONAR QUBE FILES
