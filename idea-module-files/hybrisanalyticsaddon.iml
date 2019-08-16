@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/b2c-accelerator-addons/hybrisanalyticsaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

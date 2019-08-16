@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-services/yoccaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="commercewebservicescommons" exported="" />
+  </component>
+</module>

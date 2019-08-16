@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocfacades/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="outboundservices" exported="" />
+    <orderEntry type="module" module-name="acceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="sapcpiadapter" exported="" />
+    <orderEntry type="module" module-name="keyruspoccore" exported="" />
+  </component>
+</module>

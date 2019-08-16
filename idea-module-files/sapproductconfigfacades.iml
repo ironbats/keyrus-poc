@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigfacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="commercefacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapproductconfigservices" exported="" />
+  </component>
+</module>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/modules/platform/azurecloud/bin/azurecloudserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/platform/azurecloud/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

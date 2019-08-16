@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/sap-billing/sapinvoicefacades/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapinvoiceservices" exported="" />
+  </component>
+</module>

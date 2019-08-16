@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceoccaddon/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+    <orderEntry type="module" module-name="commercewebservicescommons" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

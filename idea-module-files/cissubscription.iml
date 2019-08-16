@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/subscriptions/cissubscription/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="subscriptionfacades" exported="" />
+  </component>
+</module>

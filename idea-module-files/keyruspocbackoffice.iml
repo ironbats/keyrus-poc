@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocbackoffice/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="keyruspoccore" exported="" />
+    <orderEntry type="module" module-name="acceleratorbackoffice" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+  </component>
+</module>

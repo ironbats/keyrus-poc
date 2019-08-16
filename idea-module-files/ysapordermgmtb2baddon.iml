@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/ysapordermgmtb2baddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="sapordermgmtservices" exported="" />
+    <orderEntry type="module" module-name="sapordermgmtb2bfacades" exported="" />
+    <orderEntry type="module" module-name="b2bacceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="b2bacceleratoraddon" exported="" />
+  </component>
+</module>

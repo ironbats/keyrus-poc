@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-availability/b2bsapproductavailability/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="b2bacceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="b2bacceleratorservices" exported="" />
+    <orderEntry type="module" module-name="sapcore" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapproductavailability" exported="" />
+  </component>
+</module>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-digital-payments/sapdigitalpaymentbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="npmancillary" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+  </component>
+</module>

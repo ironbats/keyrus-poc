@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/sap-product-configuration/sapproductconfigruntimecps/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="sapproductconfigruntimeinterface" exported="" />
+    <orderEntry type="module" module-name="apiregistryservices" exported="" />
+    <orderEntry type="module" module-name="odata2webservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="integrationservices" exported="" />
+  </component>
+</module>

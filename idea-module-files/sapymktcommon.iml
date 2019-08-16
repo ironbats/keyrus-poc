@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/sap-marketing-cloud/sapymktcommon/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

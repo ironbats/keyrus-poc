@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-customer-activity-repository/sapcarintegration/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="sapcorebol" exported="" />
+    <orderEntry type="module" module-name="sapmodel" exported="" />
+    <orderEntry type="module" module-name="sapcore" exported="" />
+    <orderEntry type="module" module-name="sapcoreodata" exported="" />
+    <orderEntry type="module" module-name="sapcoreconfiguration" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

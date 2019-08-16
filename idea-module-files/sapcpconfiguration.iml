@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/sapcpconfiguration/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="basecommerce" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

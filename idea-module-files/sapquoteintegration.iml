@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/sap-cpq-integration/sapquoteintegration/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="outboundservices" exported="" />
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+    <orderEntry type="module" module-name="b2bacceleratorservices" exported="" />
+    <orderEntry type="module" module-name="odata2webservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="integrationservices" exported="" />
+    <orderEntry type="module" module-name="saporderexchange" exported="" />
+    <orderEntry type="module" module-name="inboundservices" exported="" />
+    <orderEntry type="module" module-name="sapmodel" exported="" />
+    <orderEntry type="module" module-name="sapcpiadapter" exported="" />
+  </component>
+</module>

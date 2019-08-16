@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpicustomerexchange/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapcustomerb2c" exported="" />
+    <orderEntry type="module" module-name="sapcpiadapter" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapcustomerb2c" exported="" />
+    <orderEntry type="module" module-name="sapcpiadapter" exported="" />
+  </component>
+</module>

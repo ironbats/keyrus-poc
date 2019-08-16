@@ -12,9 +12,10 @@
                 		
         
         <requires-extension name="acceleratorfacades"/>
-                		
-        
         <requires-extension name="keyruspoccore"/>
+        <requires-extension name="sapcpiadapter"/>
+        <requires-extension name="outboundservices"/>
+        <requires-extension name="sapcpicustomerexchange"/>
                 		
         
         <coremodule generated="true" manager="de.hybris.platform.jalo.extension.GenericManager" packageroot="br.com.keyrus.poc.facades"/>

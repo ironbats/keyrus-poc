@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/modules/platform/amazoncloud/bin/amazoncloudserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/platform/amazoncloud/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

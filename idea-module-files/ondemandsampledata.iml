@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/ondemand-connect/ondemandsampledata/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+    <orderEntry type="module" module-name="ondemandcommon" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

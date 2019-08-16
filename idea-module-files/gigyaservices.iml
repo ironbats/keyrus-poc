@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/sap-customer-data-cloud/gigyaservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

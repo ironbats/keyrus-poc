@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/smartedit/cmssmartedit/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="smartedit" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapcpiomsreturnsexchange/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="ysapomsreturnprocess" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapcpireturnsexchange" exported="" />
+  </component>
+</module>

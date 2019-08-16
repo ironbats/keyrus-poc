@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/text-field-configurator-template/textfieldconfiguratortemplateocctest/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplateoccaddon" exported="" />
+    <orderEntry type="module" module-name="ycommercewebservicestest" exported="" />
+  </component>
+</module>

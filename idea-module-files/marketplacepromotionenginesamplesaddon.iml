@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplacepromotionenginesamplesaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="promotionenginesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="marketplacestore" exported="" />
+  </component>
+</module>

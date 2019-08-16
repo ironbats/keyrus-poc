@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/bin/importcockpitserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/cockpit-applications/deprecated/importcockpit/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="cockpit" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

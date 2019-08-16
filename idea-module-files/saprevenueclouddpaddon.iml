@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-subscription-billing/saprevenueclouddpaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="sapdigitalpaymentaddon" exported="" />
+    <orderEntry type="module" module-name="sapsubscriptionaddon" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="saprevenuecloudorder" exported="" />
+  </component>
+</module>

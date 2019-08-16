@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/bin/hybristransportandchangeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/hybris-utilities/hybristransportandchange/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

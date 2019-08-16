@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/web/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management-system/saporderexchangeoms/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+    <orderEntry type="module" module-name="saporderexchange" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="warehousing" exported="" />
+  </component>
+</module>

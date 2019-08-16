@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/messagecenter/messagecentercsfacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="messagecentercsservices" exported="" />
+  </component>
+</module>

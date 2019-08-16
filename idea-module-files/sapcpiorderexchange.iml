@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/scpi/sapcpiorderexchange/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="saporderexchange" exported="" />
+    <orderEntry type="module" module-name="sapcpiadapter" exported="" />
+  </component>
+</module>

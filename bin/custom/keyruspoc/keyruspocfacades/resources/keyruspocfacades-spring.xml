@@ -182,4 +182,30 @@
 	</bean>
 
 	<bean id="genderData" class="br.com.keyrus.poc.facades.product.data.GenderData" scope="prototype"/>
+
+	<alias name="keyrussapCpiDefaultOutboundService" alias="keyrussapCpiOutboundService" />
+	<bean id="keyrussapCpiDefaultOutboundService" class="br.com.keyrus.poc.facades.scpi.impl.DefaultKeyrusScpiOutboundService" parent="sapCpiOutboundService">
+		<property name="outboundServiceFacade" ref="outboundServiceFacade" />
+	</bean>
+
+	<!-- Send Outbound Customer Service Customized -->
+
+	<alias name="keyrusCpiConversion" alias="keyrusConversionCpi"/>
+	<bean id="keyrusCpiConversion"
+		  class="br.com.keyrus.poc.facades.scpi.impl.KeyrusSapCpiCustomerOutboundService" parent="sapCpiCustomerConversionService">
+
+	</bean>
+
+	<alias name="sapCpiCustomerOutboundService" alias="customerExportService"/>
+	<bean id="sapCpiCustomerOutboundService"
+		  class="de.hybris.platform.sap.sapcpicustomerexchange.service.impl.SapCpiCustomerOutboundService"
+		  parent="defaultCustomerExportService">
+		<property name="sapCpiCustomerConversionService" ref="keyrusConversionCpi"/>
+		<property name="sapCpiOutboundService" ref="keyrussapCpiOutboundService"/>
+	</bean>
+
+
+
+
+
 </beans>

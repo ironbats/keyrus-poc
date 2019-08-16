@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/platform/yhacext">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/hac/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/hac/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/platform/ext/hac/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/platform/yhacext/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

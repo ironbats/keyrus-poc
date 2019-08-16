@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/saporderexchange/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="sapcustomerb2c" exported="" />
+    <orderEntry type="module" module-name="sapmodel" exported="" />
+    <orderEntry type="module" module-name="ruleengineservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="promotionengineservices" exported="" />
+    <orderEntry type="module" module-name="datahubadapter" exported="" />
+  </component>
+</module>

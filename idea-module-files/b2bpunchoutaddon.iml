@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/b2b-accelerator-addons/b2bpunchoutaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="b2bpunchout" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+  </component>
+</module>

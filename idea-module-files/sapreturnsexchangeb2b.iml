@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/sap-return-order/sapreturnsexchangeb2b/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="b2bcommerce" exported="" />
+    <orderEntry type="module" module-name="sapreturnsexchange" exported="" />
+  </component>
+</module>

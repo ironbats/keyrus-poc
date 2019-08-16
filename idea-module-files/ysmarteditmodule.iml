@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/smartedit/ysmarteditmodule/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="smartedit" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/keyruspoc/keyruspocstorefront/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="xyformsstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="orderselfserviceaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicepromotionaddon" exported="" />
+    <orderEntry type="module" module-name="multicountrysampledataaddon" exported="" />
+    <orderEntry type="module" module-name="promotionenginesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="sapymktrecommendationaddon" exported="" />
+    <orderEntry type="module" module-name="pcmbackofficesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="customerticketingaddon" exported="" />
+    <orderEntry type="module" module-name="sapcoreaddon" exported="" />
+    <orderEntry type="module" module-name="personalizationsearchsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="smarteditaddon" exported="" />
+    <orderEntry type="module" module-name="keyruspocfacades" exported="" />
+    <orderEntry type="module" module-name="commerceorgsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="eventtrackingwsaddon" exported="" />
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="assistedservicestorefront" exported="" />
+    <orderEntry type="module" module-name="adaptivesearchsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplateaddon" exported="" />
+    <orderEntry type="module" module-name="hybrisanalyticsaddon" exported="" />
+    <orderEntry type="module" module-name="ordermanagementaddon" exported="" />
+    <orderEntry type="module" module-name="xyformssamples" exported="" />
+    <orderEntry type="module" module-name="consignmenttrackingaddon" exported="" />
+  </component>
+</module>

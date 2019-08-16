@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-synchronous-order-management/sapcommonbol/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="sapcorebol" exported="" />
+    <orderEntry type="module" module-name="sapcore" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

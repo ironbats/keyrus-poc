@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/marketplace/marketplaceservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="acceleratorcms" exported="" />
+    <orderEntry type="module" module-name="consignmenttrackingservices" exported="" />
+    <orderEntry type="module" module-name="ruleengineservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

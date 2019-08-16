@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/commerce-infrastructure-services-client/cistax/hmc/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+    <orderEntry type="module" module-name="cisclient" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sap-asynchronous-order-management/ysaporderfulfillment/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="saporderexchange" exported="" />
+  </component>
+</module>

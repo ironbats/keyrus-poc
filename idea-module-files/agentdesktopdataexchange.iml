@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/agentdesktopdataexchange/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="agentdesktopdataexchangecore" exported="" />
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="sapcpicustomerexchange" exported="" />
+  </component>
+</module>

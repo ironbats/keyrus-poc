@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/bin/gridfsstorageserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/platform/gridfsstorage/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

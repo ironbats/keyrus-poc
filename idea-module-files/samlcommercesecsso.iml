@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/acceleratoraddon/web/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/acceleratoraddon/web/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/commonweb/groovytestsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/commonweb/testsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/modules/sec-customer-service/samlcommercesecsso/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="samlsinglesignon" exported="" />
+  </component>
+</module>
