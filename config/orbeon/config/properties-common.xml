@@ -58,7 +58,7 @@
     <!-- property as="xs:boolean" name="oxf.xforms.show-error-dialog"                    value="false" / -->
 
     <!-- The following properties are used when dealing with SSL on the Persistence API side -->
-    <property as="xs:anyURI"  name="oxf.http.ssl.keystore.uri" value="file:/home/themarkiron/Documents/CXCOMM190500P_0-70004140/hybris/bin/platform/tomcat/lib/keystore"/>
+    <property as="xs:anyURI"  name="oxf.http.ssl.keystore.uri" value="file:/home/themarkiron/Documents/hybris-scpi-commerce/hybris/bin/platform/tomcat/lib/keystore"/>
     <property as="xs:string" name="oxf.http.ssl.keystore.password" value="123456"/>
     <property as="xs:string" name="oxf.http.ssl.hostname-verifier" value="allow-all"/>
     
